@@ -6,9 +6,7 @@ Este repositório foi criado para registrar e acompanhar minha evolução no apr
 
 ## 📌 Conteúdo do Repositório
 
-| Pasta | Descrição |
-| :--- | :--- |
-| Cada exercício vai está em uma pasta e dentro dessa pasta vai ter uma descrição explicando o conteúdo do exercício;
+ Cada exercício vai está em uma pasta e dentro dessa pasta vai ter uma descrição explicando o conteúdo do exercício;
 
 ---
 
