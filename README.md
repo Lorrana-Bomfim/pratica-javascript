@@ -1,4 +1,4 @@
-# 🚀 Meus Exercícios de ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# 🚀 Meus Exercícios de  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Este repositório foi criado para registrar e acompanhar minha evolução no aprendizado de **JavaScript**. Aqui guardo os códigos e desafios práticos que realizo diariamente.
 
