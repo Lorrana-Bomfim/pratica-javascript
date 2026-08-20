@@ -1,3 +1,18 @@
+/*# Exercício 1 — Sistema de desconto de loja
+
+História: Você foi contratado por uma pequena loja online,o dono quer automatizar descontos:
+
+- compras acima de R$100 → 10%
+- compras acima de R$200 → 20%
+
+---
+Objetivo
+- calcule o desconto
+- mostre:
+    - valor original
+    - desconto
+    - valor final*/
+
 let valorcompra = 90
 let desconto = 0
 let valorfinal = 0 
