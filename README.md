@@ -27,4 +27,4 @@ Este repositório foi criado para registrar e acompanhar minha evolução no apr
 ---
 
 📬 **Contato**  
-Conecte-se comigo no [LinkedIn](www.linkedin.com/in/lorranabomfim)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lorranabomfim/)!
