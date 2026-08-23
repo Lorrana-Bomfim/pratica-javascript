@@ -11,8 +11,8 @@ Depois:
 - mostre:
     - “Login realizado”
     - ou “Usuário ou senha inválidos” */
-var usuário = "Rafael"
-var senha = 302010
+let usuário = "Rafael"
+let senha = 302010
 if ((usuário == "Lorrana") && (senha == "280472")){
     console.log ("Login realizado!")
 } else {
