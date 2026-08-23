@@ -22,7 +22,7 @@ Este repositório foi criado para registrar e acompanhar minha evolução no apr
 
 1. Entre na pasta correspondente ao exercício.
 2. Copie o código do arquivo `.js`.
-3. Você pode rodá-lo diretamente no **Console do Navegador** (F12) ou usando o **VS Code**.
+3. Você pode rodá-lo diretamente usando o **VS Code**.
 
 ---
 
